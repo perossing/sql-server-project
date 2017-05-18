@@ -25,3 +25,5 @@ emy
 - For each library branch, retrieve the branch name and the total number of books loaned out from that branch.
 - Retrieve the names, addresses, and number of books checked out for all borrowers who have more than five books checked out.
 - For each book authored (or co-authored) by "Stephen King", retrieve the title and the number of copies owned by the library branch whose name is "Central".
+
+** See note on query #2 in Stored-procedure-drills_library.sql file. May want to revisit and experiment with different set-up for book & book_copy tables
