@@ -1,5 +1,4 @@
-SQL server lesson -- TechAcad
-emy
+SQL server lesson -- Tech Academy
 
 ** Schema with tables & columns was specified in assignment
 
