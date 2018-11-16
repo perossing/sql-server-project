@@ -1,4 +1,5 @@
-# SQL server lesson -- Tech Academy, Portland
+# SQL server lesson
+(Tech Academy, Portland)
 
 *Schema with tables & columns was specified in assignment*
 
