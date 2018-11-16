@@ -14,7 +14,7 @@
 - There must be at least one book written by 'Stephen King'.
 
 
-To populate tables, I set up data in Excel sheets with columns to match tables.  Then since using INSERT statements in SQL Server was part of the lesson, I worked the proper syntax into Excel columns to copy & paste INSERT statements into SQL Server
+To *populate tables*, I set up data in Excel sheets with columns to match tables.  Then since using INSERT statements in SQL Server was part of the lesson, I worked the proper syntax into Excel columns to copy & paste INSERT statements into SQL Server
 
 ## Assignment for stored procedure -- Write queries for:
 - How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"?
